@@ -1,11 +1,11 @@
-👋 Hello, I'm Samara!
+👋 Hi, I'm Samara!
 
-🎓 I'm a Information Technology student at UFERSA, focused on learning and developing programming skills. Currently, I'm diving deeper into Python and starting my studies in markup languages like HTML, exploring web development.
+🎓 I'm an Information Technology student at UFERSA, focusing on Python and HTML for web development.
 
-💡 I'm always looking for new ways to apply what I learn, whether through personal or academic projects. I enjoy solving problems and am committed to improving my technical skills.
+💡 I enjoy solving problems and am eager to improve my skills through personal and academic projects.
 
-🚀 Looking for: opportunities to collaborate on open-source projects and learn more about web development and automation.
+🚀 Looking for: opportunities to collaborate on open-source projects.
 
-📚 Interests: Programming, Python, HTML, and technology in general.
+📚 Interests: Programming, Python, HTML, and technology.
 
-📫 Contact me: samaarasilva222220@gmail.com
+📫 Contact: samaarasilva222220@gmail.com
