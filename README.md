@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 Oi, me chamo Samara.<br><br>meu email: samarasilva222220@gmail.com
 
@@ -20,6 +21,8 @@ Oi, me chamo Samara.<br><br>meu email: samarasilva222220@gmail.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samaragoncsilva&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
